@@ -1,0 +1,4 @@
+# Materials
+
+- getting started (R packages, software to install, etc.)
+- link to materials

@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Replicability crisis in science?"
+  navbar:
+    left:
+      - href: index.qmd
+        text: home
+      - href: materials.qmd
+        text: materials
+      - href: admission.qmd
+        text: admission
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
