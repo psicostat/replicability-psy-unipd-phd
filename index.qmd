@@ -29,8 +29,19 @@ When evaluating the reliability of scientific findings and predictions, a major 
 
 ## Program
 
-- detailed program here
-- details about the public session on wednesday
+A more detailed program will be available soon. <!-- TODO update -->
+
+| **Day**    | **Hour**      | **Room** |
+|------------|---------------|----------|
+| 09/06/2025 | 09:00 - 17:00 | TBD      |
+| 10/06/2025 | 09:00 - 17:00 | TBD      |
+| 11/06/2025 | 09:00 - 17:00 | TDB      |
+
+The school will take place at the [School of Psychology](https://www.psicologia.unipd.it/en/), Via Venezia, 12, 35131 Padova PD (University of Padova).
+
+<center>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=11.8908628821373%2C45.41036482025023%2C11.895342171192171%2C45.41200675122365&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=19/45.411186/11.893103">View Larger Map</a></small>
+</center>
 
 ## Organizers
 
@@ -46,7 +57,7 @@ When evaluating the reliability of scientific findings and predictions, a major 
 - [Department of Developmental Psychology and Socialization](https://www.dpss.unipd.it/), University of Padova
 - [Department of General Psychology](https://www.dpg.unipd.it/), University of Padova
 
-The course is also organized by the PhD programs in [Statistical Sciences](https://www.stat.unipd.it/ricerca/dottorato-di-ricerca) and [Psychological Sciences](https://dottorato.psy.unipd.it/en).
+The course is also organized by the PhD program [Psychological Sciences](https://dottorato.psy.unipd.it/en) and the [Department of Statistical Sciences](https://www.unipd.it/en/stat), University of Padova.
 
 ::: {layout-ncol=3}
 

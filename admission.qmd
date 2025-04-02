@@ -1,3 +1,5 @@
 # Admission
 
 The application form can be found here [https://forms.gle/9nCui4xeC1xBuGxK6](https://forms.gle/9nCui4xeC1xBuGxK6). The applicants are required to fill the form and upload an academic CV and a short (max 500 words) motivational letter.
+
+The deadline for the application is <!-- TODO put deadline here -->
