@@ -2,7 +2,7 @@
 toc: false
 ---
 
-# Replicability Crisis in Science?
+# Replicability Crisis in Science
 
 ## Overview
 
@@ -21,9 +21,9 @@ When evaluating the reliability of scientific findings and predictions, a major 
 
 ![Prof. [Branden Fitelson](https://cssh.northeastern.edu/faculty/branden-fitelson/) </br> Northeastern University, USA](files/fitelson.png){width=90%}
 
-![Dr. [Filippo Gambarota](https://filippogambarota.github.io) </br> University of Padova, Italy](files/gambarota.png){width=90%}
-
 ![Prof. [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani) </br> Harvard University, USA](files/parmigiani.jpg){width=90%}
+
+![Dr. [Filippo Gambarota](https://filippogambarota.github.io) </br> University of Padova, Italy](files/gambarota.png){width=90%}
 
 :::
 
@@ -45,26 +45,28 @@ The school will take place at the [School of Psychology](https://www.psicologia.
 
 ## Organizers
 
-- Prof. [Bruno Scarpa](https://homes.stat.unipd.it/brunoscarpa/), Department of Statistical Sciences
+- [Department of Statistical Sciences](https://www.stat.unipd.it/), University of Padova
+- PhD program in [Psychological Sciences](https://dottorato.psy.unipd.it/en), University of Padova
+
+### Organizing committee
+
 - Prof. [Emanuele Aliverti](https://emanuelealiverti.github.io/), Department of Statistical Sciences
 - Prof. [Gianmarco Altoè](https://www.unipd.it/en/contatti/rubrica/?detail=Y&ruolo=1&checkout=cerca&persona=ALTOE%27&key=6A8AF57C3282433554D456917489A756), Department of Developmental Psychology and Socialization
 - Dr. [Filippo Gambarota](https://emanuelealiverti.github.io/), Department of Developmental Psychology and Socialization
 - Dr. [Margherita Calderan](https://dpg.unipd.it/calderan-margherita), Department of General Psychology
+- Prof. [Bruno Scarpa](https://homes.stat.unipd.it/brunoscarpa/), Department of Statistical Sciences
 
-## Proponents
+</br>
+</br>
+</br>
 
-- [Department of Statistical Sciences](https://www.stat.unipd.it/), University of Padova
-- [Department of Developmental Psychology and Socialization](https://www.dpss.unipd.it/), University of Padova
-- [Department of General Psychology](https://www.dpg.unipd.it/), University of Padova
-
-The course is also organized by the PhD program [Psychological Sciences](https://dottorato.psy.unipd.it/en) and the [Department of Statistical Sciences](https://www.unipd.it/en/stat), University of Padova.
 
 ::: {layout-ncol=3}
 
-![](files/logo-stat.png){width="60%"}
+![](files/logo-dpss.bmp){width="40%"}
 
-![](files/logo-dpss.bmp){width="50%"}
+![](files/logo-stat.png){width="50%"}
 
-![](files/logo-dpg.png){width="50%"}
+![](files/logo-dpg.png){width="40%"}
 
 :::
