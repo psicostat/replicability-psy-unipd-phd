@@ -10,13 +10,6 @@ When evaluating the reliability of scientific findings and predictions, a major 
 
 ## Lecturers
 
-<!--
-- Prof. [Branden Fitelson](https://cssh.northeastern.edu/faculty/branden-fitelson/), Northeastern University, USA
-- Dr. [Filippo Gambarota](https://filippogambarota.github.io), University of Padova, Italy
-- Prof. [Giovanni Parmigiani](https://scholar.harvard.edu/parmigiani), Harvard University, USA
--->
-
-
 ::: {layout-ncol=3}
 
 ![Prof. [Branden Fitelson](https://cssh.northeastern.edu/faculty/branden-fitelson/) </br> Northeastern University, USA](files/fitelson.png){width=90%}
@@ -46,14 +39,14 @@ The school will take place at the [School of Psychology](https://www.psicologia.
 ## Organizers
 
 - [Department of Statistical Sciences](https://www.stat.unipd.it/), University of Padova
-- PhD program in [Psychological Sciences](https://dottorato.psy.unipd.it/en), University of Padova
+- PhD Course in [Psychological Sciences](https://dottorato.psy.unipd.it/en), University of Padova
 
 ### Organizing committee
 
 - Prof. [Emanuele Aliverti](https://emanuelealiverti.github.io/), Department of Statistical Sciences
 - Prof. [Gianmarco Altoè](https://www.unipd.it/en/contatti/rubrica/?detail=Y&ruolo=1&checkout=cerca&persona=ALTOE%27&key=6A8AF57C3282433554D456917489A756), Department of Developmental Psychology and Socialization
-- Dr. [Filippo Gambarota](https://emanuelealiverti.github.io/), Department of Developmental Psychology and Socialization
 - Dr. [Margherita Calderan](https://dpg.unipd.it/calderan-margherita), Department of General Psychology
+- Dr. [Filippo Gambarota](https://filippogambarota.github.io/), Department of Developmental Psychology and Socialization
 - Prof. [Bruno Scarpa](https://homes.stat.unipd.it/brunoscarpa/), Department of Statistical Sciences
 
 </br>
