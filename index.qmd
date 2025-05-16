@@ -36,6 +36,20 @@ The school will take place at the [School of Psychology](https://www.psicologia.
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5601.818937099062!2d11.891138076650625!3d45.41116513697522!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477edaf41d87219f%3A0x4937f5b46fa1b4c0!2sSchool%20of%20Psychology!5e0!3m2!1sen!2sit!4v1746362175717!5m2!1sen!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </center>
 
+## Reproducibility workshop
+
+We are also organizing a pre-school workshop about doing reproducibile science by Margherita Calderan (University of Padova). The workshop is scheduled for Friday 6 June. More details will be available soon.
+
+::: {layout-ncol=2}
+
+![Dr. Margherita Calderan</br> University of Padova](files/calderan.png){width=50%}
+
+- Improving code and analysis reproducibility
+- Best practices in data sharing
+- Creating reproducible documents (e.g., papers, reports) using Quarto
+
+:::
+
 ## Organizers
 
 - [Department of Statistical Sciences](https://www.stat.unipd.it/), University of Padova

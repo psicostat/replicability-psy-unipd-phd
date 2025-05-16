@@ -7,18 +7,11 @@
     "text": "Materials\nWill be available soon!"
   },
   {
-    "objectID": "admission.html",
-    "href": "admission.html",
-    "title": "Admission",
-    "section": "",
-    "text": "Admission\nThe school is primarily intended for PhD students, who may receive 3 ECTS credits upon request. However, applications are also open to master’s students and postdoctoral researchers. The application form can be found here https://forms.gle/9nCui4xeC1xBuGxK6. The applicants are required to fill the form and upload an academic CV and a short (max 500 words) motivational letter.\n\nThe deadline for the application is May 5th, 2025."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Replicability Crisis in Science",
     "section": "",
-    "text": "When evaluating the reliability of scientific findings and predictions, a major concern is about their replicability, that is their consistency across different studies aimed at answering the same question. A “replicability crisis” has been claimed in the last decades, denouncing that a large part of published research findings, especially in applied sciences, such as psychology or medicine failed to be confirmed by subsequent studies. Difficulties in moving from empirical evidence and data analysis to a scientific result push towards the need to clarify various aspects, such as rigorous definitions, the possible tools for understanding and communicating the uncertainty inherent in most scientific conclusions, the definition of non-questionable research practices. The main objective of the course is to provide a broad and interdisciplinary view, as well as the tools that may enable individual participants to focus on specific aspects of replicability that are relevant to their own discipline of interest. The epistemological, philosophical and scientific/statistical bases of replicability and of its so-called crisis will be addressed in lectures by the teachers. Guided group activities will then be proposed to the students, to discuss basic questions and apply the ideas emerged during the course to some real data analysis.\n\n\n\n\n\n\n\n\n\n\n\n\nProf. Branden Fitelson  Northeastern University, USA\n\n\n\n\n\n\n\nProf. Giovanni Parmigiani  Harvard University, USA\n\n\n\n\n\n\n\nDr. Filippo Gambarota  University of Padova, Italy\n\n\n\n\n\n\n\n\nA more detailed program will be available soon. \n\n\n\nDay\nHour\nRoom\n\n\n\n\n09/06/2025\n09:00 - 17:00\nTBD\n\n\n10/06/2025\n09:00 - 17:00\nTBD\n\n\n11/06/2025\n09:00 - 17:00\nTDB\n\n\n\nThe school will take place at the School of Psychology, Via Venezia, 12, 35131 Padova PD (University of Padova).\n\n\n\n\n\n\n\n\nDepartment of Statistical Sciences, University of Padova\nPhD Course in Psychological Sciences, University of Padova\n\n\n\n\nProf. Emanuele Aliverti, Department of Statistical Sciences\nProf. Gianmarco Altoè, Department of Developmental Psychology and Socialization\nDr. Margherita Calderan, Department of General Psychology\nDr. Filippo Gambarota, Department of Developmental Psychology and Socialization\nProf. Bruno Scarpa, Department of Statistical Sciences"
+    "text": "When evaluating the reliability of scientific findings and predictions, a major concern is about their replicability, that is their consistency across different studies aimed at answering the same question. A “replicability crisis” has been claimed in the last decades, denouncing that a large part of published research findings, especially in applied sciences, such as psychology or medicine failed to be confirmed by subsequent studies. Difficulties in moving from empirical evidence and data analysis to a scientific result push towards the need to clarify various aspects, such as rigorous definitions, the possible tools for understanding and communicating the uncertainty inherent in most scientific conclusions, the definition of non-questionable research practices. The main objective of the course is to provide a broad and interdisciplinary view, as well as the tools that may enable individual participants to focus on specific aspects of replicability that are relevant to their own discipline of interest. The epistemological, philosophical and scientific/statistical bases of replicability and of its so-called crisis will be addressed in lectures by the teachers. Guided group activities will then be proposed to the students, to discuss basic questions and apply the ideas emerged during the course to some real data analysis.\n\n\n\n\n\n\n\n\n\n\n\n\nProf. Branden Fitelson  Northeastern University, USA\n\n\n\n\n\n\n\nProf. Giovanni Parmigiani  Harvard University, USA\n\n\n\n\n\n\n\nDr. Filippo Gambarota  University of Padova, Italy\n\n\n\n\n\n\n\n\nA more detailed program will be available soon. \n\n\n\nDay\nHour\nRoom\n\n\n\n\n09/06/2025\n09:00 - 17:00\nTBD\n\n\n10/06/2025\n09:00 - 17:00\nTBD\n\n\n11/06/2025\n09:00 - 17:00\nTDB\n\n\n\nThe school will take place at the School of Psychology, Via Venezia, 12, 35131 Padova PD (University of Padova).\n\n\n\n\n\n\n\nWe are also organizing a pre-school workshop about doing reproducibile science by Margherita Calderan (University of Padova). The workshop is scheduled for Friday 6 June. More details will be available soon.\n\n\n\n\n\n\n\n\n\nDr. Margherita Calderan University of Padova\n\n\n\n\n\nImproving code and analysis reproducibility\nBest practices in data sharing\nCreating reproducible documents (e.g., papers, reports) using Quarto\n\n\n\n\n\n\n\n\nDepartment of Statistical Sciences, University of Padova\nPhD Course in Psychological Sciences, University of Padova\n\n\n\n\nProf. Emanuele Aliverti, Department of Statistical Sciences\nProf. Gianmarco Altoè, Department of Developmental Psychology and Socialization\nDr. Margherita Calderan, Department of General Psychology\nDr. Filippo Gambarota, Department of Developmental Psychology and Socialization\nProf. Bruno Scarpa, Department of Statistical Sciences"
   },
   {
     "objectID": "index.html#overview",
@@ -42,10 +35,31 @@
     "text": "A more detailed program will be available soon. \n\n\n\nDay\nHour\nRoom\n\n\n\n\n09/06/2025\n09:00 - 17:00\nTBD\n\n\n10/06/2025\n09:00 - 17:00\nTBD\n\n\n11/06/2025\n09:00 - 17:00\nTDB\n\n\n\nThe school will take place at the School of Psychology, Via Venezia, 12, 35131 Padova PD (University of Padova)."
   },
   {
+    "objectID": "index.html#reproducibility-workshop",
+    "href": "index.html#reproducibility-workshop",
+    "title": "Replicability Crisis in Science",
+    "section": "",
+    "text": "We are also organizing a pre-school workshop about doing reproducibile science by Margherita Calderan (University of Padova). The workshop is scheduled for Friday 6 June. More details will be available soon.\n\n\n\n\n\n\n\n\n\nDr. Margherita Calderan University of Padova\n\n\n\n\n\nImproving code and analysis reproducibility\nBest practices in data sharing\nCreating reproducible documents (e.g., papers, reports) using Quarto"
+  },
+  {
     "objectID": "index.html#organizers",
     "href": "index.html#organizers",
     "title": "Replicability Crisis in Science",
     "section": "",
     "text": "Department of Statistical Sciences, University of Padova\nPhD Course in Psychological Sciences, University of Padova\n\n\n\n\nProf. Emanuele Aliverti, Department of Statistical Sciences\nProf. Gianmarco Altoè, Department of Developmental Psychology and Socialization\nDr. Margherita Calderan, Department of General Psychology\nDr. Filippo Gambarota, Department of Developmental Psychology and Socialization\nProf. Bruno Scarpa, Department of Statistical Sciences"
+  },
+  {
+    "objectID": "admission.html",
+    "href": "admission.html",
+    "title": "Admission",
+    "section": "",
+    "text": "Admission\nThe school is primarily intended for PhD students, who may receive 3 ECTS credits upon request. However, applications are also open to master’s students and postdoctoral researchers. The application form can be found here https://forms.gle/9nCui4xeC1xBuGxK6. The applicants are required to fill the form and upload an academic CV and a short (max 500 words) motivational letter.\n\nThe deadline for the application is May 5th, 2025."
+  },
+  {
+    "objectID": "public-lecture.html",
+    "href": "public-lecture.html",
+    "title": "Public lecture",
+    "section": "",
+    "text": "Public lecture\nTuesday 10th of June at 16:30 there will be two lectures:\n\nGiovanni Parmigiani: Concepts and Challenges in Replicability of Unsupervised Learning\nBranden Fitelson: A Philosopher Looks at the Replicability Crisis.\n\nThe event is free and open to everyone but for organizational needs you can do the registration here https://docs.google.com/forms/d/e/1FAIpQLSfUcMuZERIztTxNZKArZmezwNYBxOopukyJ11PlNcrjOpJYYw/viewform.\nSee the flyer below for more information:\nDownload PDF file."
   }
 ]

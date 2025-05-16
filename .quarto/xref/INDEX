@@ -10,5 +10,11 @@
   },
   "materials.qmd": {
     "materials.html": "1379e43e"
+  },
+  "public-lecture.qmd": {
+    "public-lecture.html": "33dc3752"
+  },
+  "reproducibility-workshop.qmd": {
+    "reproducibility-workshop.html": "b85ffff6"
   }
 }

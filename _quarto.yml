@@ -12,6 +12,8 @@ website:
         text: materials
       - href: admission.qmd
         text: admission
+      - href: public-lecture.qmd
+        text: public lecture
 
 format:
   html:
