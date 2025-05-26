@@ -8,10 +8,12 @@ website:
     left:
       - href: index.qmd
         text: home
-      - href: materials.qmd
-        text: materials
-      - href: admission.qmd
-        text: admission
+      - href: schedule.qmd
+        text: schedule
+      - href: getting-started.qmd
+        text: getting-started
+      #- href: admission.qmd
+      #  text: admission
       - href: public-lecture.qmd
         text: public lecture
 

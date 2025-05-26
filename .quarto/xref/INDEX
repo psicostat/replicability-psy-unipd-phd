@@ -16,5 +16,11 @@
   },
   "reproducibility-workshop.qmd": {
     "reproducibility-workshop.html": "b85ffff6"
+  },
+  "schedule.qmd": {
+    "schedule.html": "3ea046bb"
+  },
+  "getting-started.qmd": {
+    "getting-started.html": "c7df69dd"
   }
 }

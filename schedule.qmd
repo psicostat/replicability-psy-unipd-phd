@@ -1,0 +1,119 @@
+---
+params:
+    groups: false
+---
+
+# Schedule
+
+The school will take place at the [School of Psychology](https://www.psicologia.unipd.it/en/), Via Venezia, 12, 35131 Padova PD (University of Padova).
+
+<center>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5601.818937099062!2d11.891138076650625!3d45.41116513697522!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477edaf41d87219f%3A0x4937f5b46fa1b4c0!2sSchool%20of%20Psychology!5e0!3m2!1sen!2sit!4v1746362175717!5m2!1sen!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</center>
+
+![Buildings of the School of Psychology](files/places.png)
+
+## Friday 06th
+
+On Friday 06th there will be the pre-school **workshop on doing reproducibile science** by Dr. Margherita Calderan from 14:30 to 16:30 in room DPSS 2, ground floor of the Psico 1 building (the pink one).
+
+::: {layout-ncol=2}
+
+![Dr. Margherita Calderan</br> University of Padova](files/calderan.png){width=50%}
+
+- Improving code and analysis reproducibility
+- Best practices in data sharing
+- Creating reproducible documents (e.g., papers, reports) using Quarto
+
+:::
+
+## Monday 09th
+
+The main material for Monday is the [first chapter](https://filippogambarota.github.io/replicability-book/chapters/chapter1.html) of the 3R book.
+
+The **room is 4P, Psico 2 bulding**, 4th floor (the grey one).
+
+| **Hour**      | **Activity**       |
+|---------------|--------------------|
+| 09:00 - 09:45 | lecture 1          |
+| 09:45 - 10:30 | lecture 2          |
+| 10:30 - 10:45 | group warm-up      |
+| 10:45 - 11:15 | group discussion   |
+| 11:15 - 12:00 | general discussion |
+| 12:00 - 14:00 | lunch              |
+| 14:00 - 16:30 | lecture 3          |
+
+After the afternoon session there will be an aperitif outside in the Psychology square.
+
+## Tuesday 10th
+
+The main material for Monday is the [third chapter](https://filippogambarota.github.io/replicability-book/chapters/chapter3.html) of the 3R book.
+
+The **room is 4P, Psico 2 bulding**, 4th floor (the grey one).
+
+| **Hour**      | **Activity**       |
+|---------------|--------------------|
+| 09:00 - 09:45 | lecture 1          |
+| 09:45 - 10:30 | lecture 2          |
+| 10:30 - 10:45 | group warm-up      |
+| 10:45 - 11:15 | group discussion   |
+| 11:15 - 12:00 | general discussion |
+| 12:00 - 14:00 | lunch              |
+| 14:00 - 16:00 | lecture 3          |
+
+Then there will be the public lectures by Giovanni and Branden at 16:30. More details [here](public-lecture.qmd).
+
+## Wednesday 11th
+
+The main material for Monday is the [fourth chapter](https://filippogambarota.github.io/replicability-book/chapters/chapter4.html) of the 3R book.
+
+The **room is 4P, Psico 2 bulding**, 4th floor (the grey one).
+
+| **Hour**      | **Activity**       |
+|---------------|--------------------|
+| 09:00 - 09:45 | lecture 1          |
+| 09:45 - 10:30 | lecture 2          |
+| 10:30 - 10:45 | group warm-up      |
+| 10:45 - 11:15 | group discussion   |
+| 11:15 - 12:00 | general discussion |
+| 12:00 - 14:00 | lunch              |
+| 14:00 - 16:30 | lecture 3          |
+
+# Groups
+
+```{r}
+#| include: false
+
+library(googledrive)
+library(kableExtra)
+library(tidyverse)
+drive_auth("filippo.gambarota@gmail.com")
+link = "https://docs.google.com/spreadsheets/d/1fl4jPsuNmCzF9i4iLPwGUG-p8t0-BVSYLFfkoEaF1vg/edit?gid=0#gid=0"
+temp = drive_download(link, path = "files/students.xlsx", overwrite = TRUE)
+dat = readxl::read_xlsx(temp$local_path)
+
+groups_names = c("1" = "Neyman", "2" = "Bayes", "3" = "Bonferroni", "4" = "Jeffrey", "5" = "Wald")
+groups_images = c(
+    
+)
+
+dat = dat |> 
+    mutate(name_surname = paste(name, surname),
+           group = groups_names[group])
+
+datl <- split(dat, dat$group)
+```
+
+```{r}
+#| include: !expr params$groups
+#| output: asis
+#| echo: false 
+
+for(i in 1:length(datl)){
+    cat("## ", unique(datl[[i]]$group[i]), "\n")
+    cat(sprintf("- %s", datl[[i]]$name_surname), sep = "\n")
+    cat("\n")
+}
+```
+
+Available soon! :)

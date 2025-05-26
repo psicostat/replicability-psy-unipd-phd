@@ -1,0 +1,21 @@
+# Getting started
+
+## Preparing for the school
+
+The main material for the school is the book [*The three Rs of trustworthy science*](https://filippogambarota.github.io/replicability-book/). The book is a work-in-progress project by Giovanni Parmigiani, Branden Fitelson and Filippo Gambarota. For the school the three main chapters are the [1](https://filippogambarota.github.io/replicability-book/chapters/chapter1.html), [3](https://filippogambarota.github.io/replicability-book/chapters/chapter3.html) and [4](https://filippogambarota.github.io/replicability-book/chapters/chapter4.html).
+
+We highly suggest to read the chapters in advance preparing some questions, critiques, comments related to the chapters content and how the concept of replicability applies to your research. There will be space for group discussion thus be prepared! :)
+
+## Software
+
+In terms of software, we will mainly use R thus if you want to follow the lectures code and try also by yourself you need to install R and highly suggested an R IDE such as Posit, Positron or VScode.
+
+All the materials are mainly written in Quarto. If you want to reproduce them you need to install [Quarto](https://quarto.org/). Quarto will be covered in the pre-school workshop by Margherita Calderan.
+
+In terms of R packages, the [README](https://github.com/filippogambarota/replicability-book) of the book contains more details about which packages to install.
+
+## Contributing to the book
+
+The book is a work-in-progress project thus we highly appreciate feedbacks, comments, etc. You can put (public) comments using the free tool hypothesis.is (see below).
+
+![](files/hyp.png)

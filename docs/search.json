@@ -1,17 +1,80 @@
 [
   {
-    "objectID": "materials.html",
-    "href": "materials.html",
-    "title": "Materials",
+    "objectID": "getting-started.html",
+    "href": "getting-started.html",
+    "title": "Getting started",
     "section": "",
-    "text": "Materials\nWill be available soon!"
+    "text": "The main material for the school is the book The three Rs of trustworthy science. The book is a work-in-progress project by Giovanni Parmigiani, Branden Fitelson and Filippo Gambarota. For the school the three main chapters are the 1, 3 and 4.\nWe highly suggest to read the chapters in advance preparing some questions, critiques, comments related to the chapters content and how the concept of replicability applies to your research. There will be space for group discussion thus be prepared! :)\n\n\n\nIn terms of software, we will mainly use R thus if you want to follow the lectures code and try also by yourself you need to install R and highly suggested an R IDE such as Posit, Positron or VScode.\nAll the materials are mainly written in Quarto. If you want to reproduce them you need to install Quarto. Quarto will be covered in the pre-school workshop by Margherita Calderan.\nIn terms of R packages, the README of the book contains more details about which packages to install.\n\n\n\nThe book is a work-in-progress project thus we highly appreciate feedbacks, comments, etc. You can put (public) comments using the free tool hypothesis.is (see below)."
+  },
+  {
+    "objectID": "getting-started.html#preparing-for-the-school",
+    "href": "getting-started.html#preparing-for-the-school",
+    "title": "Getting started",
+    "section": "",
+    "text": "The main material for the school is the book The three Rs of trustworthy science. The book is a work-in-progress project by Giovanni Parmigiani, Branden Fitelson and Filippo Gambarota. For the school the three main chapters are the 1, 3 and 4.\nWe highly suggest to read the chapters in advance preparing some questions, critiques, comments related to the chapters content and how the concept of replicability applies to your research. There will be space for group discussion thus be prepared! :)"
+  },
+  {
+    "objectID": "getting-started.html#software",
+    "href": "getting-started.html#software",
+    "title": "Getting started",
+    "section": "",
+    "text": "In terms of software, we will mainly use R thus if you want to follow the lectures code and try also by yourself you need to install R and highly suggested an R IDE such as Posit, Positron or VScode.\nAll the materials are mainly written in Quarto. If you want to reproduce them you need to install Quarto. Quarto will be covered in the pre-school workshop by Margherita Calderan.\nIn terms of R packages, the README of the book contains more details about which packages to install."
+  },
+  {
+    "objectID": "getting-started.html#contributing-to-the-book",
+    "href": "getting-started.html#contributing-to-the-book",
+    "title": "Getting started",
+    "section": "",
+    "text": "The book is a work-in-progress project thus we highly appreciate feedbacks, comments, etc. You can put (public) comments using the free tool hypothesis.is (see below)."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "The school will take place at the School of Psychology, Via Venezia, 12, 35131 Padova PD (University of Padova).\n\n\n\n\n\n\n\nBuildings of the School of Psychology\n\n\n\n\nOn Friday 06th there will be the pre-school workshop on doing reproducibile science by Dr. Margherita Calderan from 14:30 to 16:30 in room DPSS 2, ground floor of the Psico 1 building (the pink one).\n\n\n\n\n\n\n\n\n\nDr. Margherita Calderan University of Padova\n\n\n\n\n\nImproving code and analysis reproducibility\nBest practices in data sharing\nCreating reproducible documents (e.g., papers, reports) using Quarto\n\n\n\n\n\n\n\nThe main material for Monday is the first chapter of the 3R book.\nThe room is 4P, Psico 2 bulding, 4th floor (the grey one).\n\n\n\nHour\nActivity\n\n\n\n\n09:00 - 09:45\nlecture 1\n\n\n09:45 - 10:30\nlecture 2\n\n\n10:30 - 10:45\ngroup warm-up\n\n\n10:45 - 11:15\ngroup discussion\n\n\n11:15 - 12:00\ngeneral discussion\n\n\n12:00 - 14:00\nlunch\n\n\n14:00 - 16:30\nlecture 3\n\n\n\nAfter the afternoon session there will be an aperitif outside in the Psychology square.\n\n\n\nThe main material for Monday is the third chapter of the 3R book.\nThe room is 4P, Psico 2 bulding, 4th floor (the grey one).\n\n\n\nHour\nActivity\n\n\n\n\n09:00 - 09:45\nlecture 1\n\n\n09:45 - 10:30\nlecture 2\n\n\n10:30 - 10:45\ngroup warm-up\n\n\n10:45 - 11:15\ngroup discussion\n\n\n11:15 - 12:00\ngeneral discussion\n\n\n12:00 - 14:00\nlunch\n\n\n14:00 - 16:00\nlecture 3\n\n\n\nThen there will be the public lectures by Giovanni and Branden at 16:30. More details here.\n\n\n\nThe main material for Monday is the fourth chapter of the 3R book.\nThe room is 4P, Psico 2 bulding, 4th floor (the grey one).\n\n\n\nHour\nActivity\n\n\n\n\n09:00 - 09:45\nlecture 1\n\n\n09:45 - 10:30\nlecture 2\n\n\n10:30 - 10:45\ngroup warm-up\n\n\n10:45 - 11:15\ngroup discussion\n\n\n11:15 - 12:00\ngeneral discussion\n\n\n12:00 - 14:00\nlunch\n\n\n14:00 - 16:30\nlecture 3"
+  },
+  {
+    "objectID": "schedule.html#friday-06th",
+    "href": "schedule.html#friday-06th",
+    "title": "Schedule",
+    "section": "",
+    "text": "On Friday 06th there will be the pre-school workshop on doing reproducibile science by Dr. Margherita Calderan from 14:30 to 16:30 in room DPSS 2, ground floor of the Psico 1 building (the pink one).\n\n\n\n\n\n\n\n\n\nDr. Margherita Calderan University of Padova\n\n\n\n\n\nImproving code and analysis reproducibility\nBest practices in data sharing\nCreating reproducible documents (e.g., papers, reports) using Quarto"
+  },
+  {
+    "objectID": "schedule.html#monday-09th",
+    "href": "schedule.html#monday-09th",
+    "title": "Schedule",
+    "section": "",
+    "text": "The main material for Monday is the first chapter of the 3R book.\nThe room is 4P, Psico 2 bulding, 4th floor (the grey one).\n\n\n\nHour\nActivity\n\n\n\n\n09:00 - 09:45\nlecture 1\n\n\n09:45 - 10:30\nlecture 2\n\n\n10:30 - 10:45\ngroup warm-up\n\n\n10:45 - 11:15\ngroup discussion\n\n\n11:15 - 12:00\ngeneral discussion\n\n\n12:00 - 14:00\nlunch\n\n\n14:00 - 16:30\nlecture 3\n\n\n\nAfter the afternoon session there will be an aperitif outside in the Psychology square."
+  },
+  {
+    "objectID": "schedule.html#tuesday-10th",
+    "href": "schedule.html#tuesday-10th",
+    "title": "Schedule",
+    "section": "",
+    "text": "The main material for Monday is the third chapter of the 3R book.\nThe room is 4P, Psico 2 bulding, 4th floor (the grey one).\n\n\n\nHour\nActivity\n\n\n\n\n09:00 - 09:45\nlecture 1\n\n\n09:45 - 10:30\nlecture 2\n\n\n10:30 - 10:45\ngroup warm-up\n\n\n10:45 - 11:15\ngroup discussion\n\n\n11:15 - 12:00\ngeneral discussion\n\n\n12:00 - 14:00\nlunch\n\n\n14:00 - 16:00\nlecture 3\n\n\n\nThen there will be the public lectures by Giovanni and Branden at 16:30. More details here."
+  },
+  {
+    "objectID": "schedule.html#wednesday-11th",
+    "href": "schedule.html#wednesday-11th",
+    "title": "Schedule",
+    "section": "",
+    "text": "The main material for Monday is the fourth chapter of the 3R book.\nThe room is 4P, Psico 2 bulding, 4th floor (the grey one).\n\n\n\nHour\nActivity\n\n\n\n\n09:00 - 09:45\nlecture 1\n\n\n09:45 - 10:30\nlecture 2\n\n\n10:30 - 10:45\ngroup warm-up\n\n\n10:45 - 11:15\ngroup discussion\n\n\n11:15 - 12:00\ngeneral discussion\n\n\n12:00 - 14:00\nlunch\n\n\n14:00 - 16:30\nlecture 3"
+  },
+  {
+    "objectID": "admission.html",
+    "href": "admission.html",
+    "title": "Admission",
+    "section": "",
+    "text": "Admission\nThe school is primarily intended for PhD students, who may receive 3 ECTS credits upon request. However, applications are also open to master’s students and postdoctoral researchers. The application form can be found here https://forms.gle/9nCui4xeC1xBuGxK6. The applicants are required to fill the form and upload an academic CV and a short (max 500 words) motivational letter.\n\nThe deadline for the application is May 5th, 2025."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Replicability Crisis in Science",
     "section": "",
-    "text": "When evaluating the reliability of scientific findings and predictions, a major concern is about their replicability, that is their consistency across different studies aimed at answering the same question. A “replicability crisis” has been claimed in the last decades, denouncing that a large part of published research findings, especially in applied sciences, such as psychology or medicine failed to be confirmed by subsequent studies. Difficulties in moving from empirical evidence and data analysis to a scientific result push towards the need to clarify various aspects, such as rigorous definitions, the possible tools for understanding and communicating the uncertainty inherent in most scientific conclusions, the definition of non-questionable research practices. The main objective of the course is to provide a broad and interdisciplinary view, as well as the tools that may enable individual participants to focus on specific aspects of replicability that are relevant to their own discipline of interest. The epistemological, philosophical and scientific/statistical bases of replicability and of its so-called crisis will be addressed in lectures by the teachers. Guided group activities will then be proposed to the students, to discuss basic questions and apply the ideas emerged during the course to some real data analysis.\n\n\n\n\n\n\n\n\n\n\n\n\nProf. Branden Fitelson  Northeastern University, USA\n\n\n\n\n\n\n\nProf. Giovanni Parmigiani  Harvard University, USA\n\n\n\n\n\n\n\nDr. Filippo Gambarota  University of Padova, Italy\n\n\n\n\n\n\n\n\nA more detailed program will be available soon. \n\n\n\nDay\nHour\nRoom\n\n\n\n\n09/06/2025\n09:00 - 17:00\nTBD\n\n\n10/06/2025\n09:00 - 17:00\nTBD\n\n\n11/06/2025\n09:00 - 17:00\nTDB\n\n\n\nThe school will take place at the School of Psychology, Via Venezia, 12, 35131 Padova PD (University of Padova).\n\n\n\n\n\n\n\nWe are also organizing a pre-school workshop about doing reproducibile science by Margherita Calderan (University of Padova). The workshop is scheduled for Friday 6 June. More details will be available soon.\n\n\n\n\n\n\n\n\n\nDr. Margherita Calderan University of Padova\n\n\n\n\n\nImproving code and analysis reproducibility\nBest practices in data sharing\nCreating reproducible documents (e.g., papers, reports) using Quarto\n\n\n\n\n\n\n\n\nDepartment of Statistical Sciences, University of Padova\nPhD Course in Psychological Sciences, University of Padova\n\n\n\n\nProf. Emanuele Aliverti, Department of Statistical Sciences\nProf. Gianmarco Altoè, Department of Developmental Psychology and Socialization\nDr. Margherita Calderan, Department of General Psychology\nDr. Filippo Gambarota, Department of Developmental Psychology and Socialization\nProf. Bruno Scarpa, Department of Statistical Sciences"
+    "text": "When evaluating the reliability of scientific findings and predictions, a major concern is about their replicability, that is their consistency across different studies aimed at answering the same question. A “replicability crisis” has been claimed in the last decades, denouncing that a large part of published research findings, especially in applied sciences, such as psychology or medicine failed to be confirmed by subsequent studies. Difficulties in moving from empirical evidence and data analysis to a scientific result push towards the need to clarify various aspects, such as rigorous definitions, the possible tools for understanding and communicating the uncertainty inherent in most scientific conclusions, the definition of non-questionable research practices. The main objective of the course is to provide a broad and interdisciplinary view, as well as the tools that may enable individual participants to focus on specific aspects of replicability that are relevant to their own discipline of interest. The epistemological, philosophical and scientific/statistical bases of replicability and of its so-called crisis will be addressed in lectures by the teachers. Guided group activities will then be proposed to the students, to discuss basic questions and apply the ideas emerged during the course to some real data analysis.\n\n\n\n\n\n\n\n\n\n\n\n\nProf. Branden Fitelson  Northeastern University, USA\n\n\n\n\n\n\n\nProf. Giovanni Parmigiani  Harvard University, USA\n\n\n\n\n\n\n\nDr. Filippo Gambarota  University of Padova, Italy\n\n\n\n\n\n\n\n\nSee the detailed program here.\n\n\n\n\nDepartment of Statistical Sciences, University of Padova\nPhD Course in Psychological Sciences, University of Padova\n\n\n\n\nProf. Emanuele Aliverti, Department of Statistical Sciences\nProf. Gianmarco Altoè, Department of Developmental Psychology and Socialization\nDr. Margherita Calderan, Department of General Psychology\nDr. Filippo Gambarota, Department of Developmental Psychology and Socialization\nProf. Bruno Scarpa, Department of Statistical Sciences"
   },
   {
     "objectID": "index.html#overview",
@@ -32,14 +95,7 @@
     "href": "index.html#program",
     "title": "Replicability Crisis in Science",
     "section": "",
-    "text": "A more detailed program will be available soon. \n\n\n\nDay\nHour\nRoom\n\n\n\n\n09/06/2025\n09:00 - 17:00\nTBD\n\n\n10/06/2025\n09:00 - 17:00\nTBD\n\n\n11/06/2025\n09:00 - 17:00\nTDB\n\n\n\nThe school will take place at the School of Psychology, Via Venezia, 12, 35131 Padova PD (University of Padova)."
-  },
-  {
-    "objectID": "index.html#reproducibility-workshop",
-    "href": "index.html#reproducibility-workshop",
-    "title": "Replicability Crisis in Science",
-    "section": "",
-    "text": "We are also organizing a pre-school workshop about doing reproducibile science by Margherita Calderan (University of Padova). The workshop is scheduled for Friday 6 June. More details will be available soon.\n\n\n\n\n\n\n\n\n\nDr. Margherita Calderan University of Padova\n\n\n\n\n\nImproving code and analysis reproducibility\nBest practices in data sharing\nCreating reproducible documents (e.g., papers, reports) using Quarto"
+    "text": "See the detailed program here."
   },
   {
     "objectID": "index.html#organizers",
@@ -47,13 +103,6 @@
     "title": "Replicability Crisis in Science",
     "section": "",
     "text": "Department of Statistical Sciences, University of Padova\nPhD Course in Psychological Sciences, University of Padova\n\n\n\n\nProf. Emanuele Aliverti, Department of Statistical Sciences\nProf. Gianmarco Altoè, Department of Developmental Psychology and Socialization\nDr. Margherita Calderan, Department of General Psychology\nDr. Filippo Gambarota, Department of Developmental Psychology and Socialization\nProf. Bruno Scarpa, Department of Statistical Sciences"
-  },
-  {
-    "objectID": "admission.html",
-    "href": "admission.html",
-    "title": "Admission",
-    "section": "",
-    "text": "Admission\nThe school is primarily intended for PhD students, who may receive 3 ECTS credits upon request. However, applications are also open to master’s students and postdoctoral researchers. The application form can be found here https://forms.gle/9nCui4xeC1xBuGxK6. The applicants are required to fill the form and upload an academic CV and a short (max 500 words) motivational letter.\n\nThe deadline for the application is May 5th, 2025."
   },
   {
     "objectID": "public-lecture.html",
