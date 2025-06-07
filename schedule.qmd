@@ -1,6 +1,6 @@
 ---
 params:
-    groups: false
+    groups: true
 ---
 
 # Schedule
@@ -16,6 +16,8 @@ The school will take place at the [School of Psychology](https://www.psicologia.
 ## Friday 06th
 
 On Friday 06th there will be the pre-school **workshop on doing reproducibile science** by Dr. Margherita Calderan from 14:30 to 16:30 in room DPSS 2, ground floor of the Psico 1 building (the pink one).
+
+The materials of the workshop can be found here [https://mar-cald.github.io/repro-pre-school/](https://mar-cald.github.io/repro-pre-school/).
 
 ::: {layout-ncol=2}
 
