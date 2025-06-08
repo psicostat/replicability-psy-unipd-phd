@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "getting-started.html",
+    "href": "getting-started.html",
+    "title": "Getting started",
+    "section": "",
+    "text": "The main material for the school is the book The three Rs of trustworthy science. The book is a work-in-progress project by Giovanni Parmigiani, Branden Fitelson and Filippo Gambarota. For the school the three main chapters are the 1, 3 and 4.\nWe highly suggest to read the chapters in advance preparing some questions, critiques, comments related to the chapters content and how the concept of replicability applies to your research. There will be space for group discussion thus be prepared! :)\n\n\n\nIn terms of software, we will mainly use R thus if you want to follow the lectures code and try also by yourself you need to install R and highly suggested an R IDE such as Posit, Positron or VScode.\nAll the materials are mainly written in Quarto. If you want to reproduce them you need to install Quarto. Quarto will be covered in the pre-school workshop by Margherita Calderan.\nIn terms of R packages, the README of the book contains more details about which packages to install.\n\n\n\nThe book is a work-in-progress project thus we highly appreciate feedbacks, comments, etc. You can put (public) comments using the free tool hypothesis.is (see below)."
+  },
+  {
+    "objectID": "getting-started.html#preparing-for-the-school",
+    "href": "getting-started.html#preparing-for-the-school",
+    "title": "Getting started",
+    "section": "",
+    "text": "The main material for the school is the book The three Rs of trustworthy science. The book is a work-in-progress project by Giovanni Parmigiani, Branden Fitelson and Filippo Gambarota. For the school the three main chapters are the 1, 3 and 4.\nWe highly suggest to read the chapters in advance preparing some questions, critiques, comments related to the chapters content and how the concept of replicability applies to your research. There will be space for group discussion thus be prepared! :)"
+  },
+  {
+    "objectID": "getting-started.html#software",
+    "href": "getting-started.html#software",
+    "title": "Getting started",
+    "section": "",
+    "text": "In terms of software, we will mainly use R thus if you want to follow the lectures code and try also by yourself you need to install R and highly suggested an R IDE such as Posit, Positron or VScode.\nAll the materials are mainly written in Quarto. If you want to reproduce them you need to install Quarto. Quarto will be covered in the pre-school workshop by Margherita Calderan.\nIn terms of R packages, the README of the book contains more details about which packages to install."
+  },
+  {
+    "objectID": "getting-started.html#contributing-to-the-book",
+    "href": "getting-started.html#contributing-to-the-book",
+    "title": "Getting started",
+    "section": "",
+    "text": "The book is a work-in-progress project thus we highly appreciate feedbacks, comments, etc. You can put (public) comments using the free tool hypothesis.is (see below)."
+  },
+  {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "Schedule",
@@ -68,34 +96,6 @@
     "title": "Schedule",
     "section": "Wald",
     "text": "Wald\n\nJiregna Olani Kedida\nIsabella Valbusa\nDenise Zucchini\nRaquel Nicolás del Álamo\nPaolo Manildo\n\nAvailable soon! :)"
-  },
-  {
-    "objectID": "getting-started.html",
-    "href": "getting-started.html",
-    "title": "Getting started",
-    "section": "",
-    "text": "The main material for the school is the book The three Rs of trustworthy science. The book is a work-in-progress project by Giovanni Parmigiani, Branden Fitelson and Filippo Gambarota. For the school the three main chapters are the 1, 3 and 4.\nWe highly suggest to read the chapters in advance preparing some questions, critiques, comments related to the chapters content and how the concept of replicability applies to your research. There will be space for group discussion thus be prepared! :)\n\n\n\nIn terms of software, we will mainly use R thus if you want to follow the lectures code and try also by yourself you need to install R and highly suggested an R IDE such as Posit, Positron or VScode.\nAll the materials are mainly written in Quarto. If you want to reproduce them you need to install Quarto. Quarto will be covered in the pre-school workshop by Margherita Calderan.\nIn terms of R packages, the README of the book contains more details about which packages to install.\n\n\n\nThe book is a work-in-progress project thus we highly appreciate feedbacks, comments, etc. You can put (public) comments using the free tool hypothesis.is (see below)."
-  },
-  {
-    "objectID": "getting-started.html#preparing-for-the-school",
-    "href": "getting-started.html#preparing-for-the-school",
-    "title": "Getting started",
-    "section": "",
-    "text": "The main material for the school is the book The three Rs of trustworthy science. The book is a work-in-progress project by Giovanni Parmigiani, Branden Fitelson and Filippo Gambarota. For the school the three main chapters are the 1, 3 and 4.\nWe highly suggest to read the chapters in advance preparing some questions, critiques, comments related to the chapters content and how the concept of replicability applies to your research. There will be space for group discussion thus be prepared! :)"
-  },
-  {
-    "objectID": "getting-started.html#software",
-    "href": "getting-started.html#software",
-    "title": "Getting started",
-    "section": "",
-    "text": "In terms of software, we will mainly use R thus if you want to follow the lectures code and try also by yourself you need to install R and highly suggested an R IDE such as Posit, Positron or VScode.\nAll the materials are mainly written in Quarto. If you want to reproduce them you need to install Quarto. Quarto will be covered in the pre-school workshop by Margherita Calderan.\nIn terms of R packages, the README of the book contains more details about which packages to install."
-  },
-  {
-    "objectID": "getting-started.html#contributing-to-the-book",
-    "href": "getting-started.html#contributing-to-the-book",
-    "title": "Getting started",
-    "section": "",
-    "text": "The book is a work-in-progress project thus we highly appreciate feedbacks, comments, etc. You can put (public) comments using the free tool hypothesis.is (see below)."
   },
   {
     "objectID": "admission.html",

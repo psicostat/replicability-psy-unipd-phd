@@ -1,5 +1,12 @@
 # Getting started
 
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_FnYgFAvtGt_HMpXQ_KrcXh2WjKKXPxPZYJT-qyTuTOMleMDxui9aNsgc2qRxlsz4SU7NPQMQVs3o/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="500" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</center>
+
+
 ## Preparing for the school
 
 The main material for the school is the book [*The three Rs of trustworthy science*](https://filippogambarota.github.io/replicability-book/). The book is a work-in-progress project by Giovanni Parmigiani, Branden Fitelson and Filippo Gambarota. For the school the three main chapters are the [1](https://filippogambarota.github.io/replicability-book/chapters/chapter1.html), [3](https://filippogambarota.github.io/replicability-book/chapters/chapter3.html) and [4](https://filippogambarota.github.io/replicability-book/chapters/chapter4.html).
